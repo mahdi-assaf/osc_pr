@@ -1,0 +1,20 @@
+{
+      "uid": null,
+      "device_info": {
+        "device": "amplifier",
+        "type": "edfa",
+        "variety": null
+      },
+      "params": {
+        "mode": null,
+        "gain": null,
+        "tilt": null,
+        "power": null
+      },
+      "credentials": {
+        "hostname": null,
+        "port": -1,
+        "username": null,
+        "password": null
+      }
+}

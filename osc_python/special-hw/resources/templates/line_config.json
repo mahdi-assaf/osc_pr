@@ -1,0 +1,82 @@
+{
+  "elements": [
+    {
+      "uid": "bst",
+      "params": {
+        "CONFIG_GAIN": null,
+        "CONFIG_TILT": null,
+        "CONFIG_OUTPUT_ENABLED": true,
+        "CONFIG_RANGE": null,
+        "CONFIG_MODE": null,
+        "CONFIG_POWER": null
+      }
+    },
+    {
+      "uid": "ila1",
+      "params": {
+        "CONFIG_GAIN": null,
+        "CONFIG_TILT": null,
+        "CONFIG_OUTPUT_ENABLED": true,
+        "CONFIG_RANGE": null,
+        "CONFIG_MODE": null,
+        "CONFIG_POWER": null
+      }
+    },
+    {
+      "uid": "ila2",
+      "params": {
+        "CONFIG_GAIN": null,
+        "CONFIG_TILT": null,
+        "CONFIG_OUTPUT_ENABLED": true,
+        "CONFIG_RANGE": null,
+        "CONFIG_MODE": null,
+        "CONFIG_POWER": null
+      }
+    },
+    {
+      "uid": "ila3",
+      "params": {
+        "CONFIG_GAIN": null,
+        "CONFIG_TILT": null,
+        "CONFIG_OUTPUT_ENABLED": true,
+        "CONFIG_RANGE": null,
+        "CONFIG_MODE": null,
+        "CONFIG_POWER": null
+      }
+    },
+    {
+      "uid": "ila4",
+      "params": {
+        "CONFIG_GAIN": null,
+        "CONFIG_TILT": null,
+        "CONFIG_OUTPUT_ENABLED": true,
+        "CONFIG_RANGE": null,
+        "CONFIG_MODE": null,
+        "CONFIG_POWER": null
+      }
+    },
+    {
+      "uid": "ila5",
+      "params": {
+        "CONFIG_GAIN": null,
+        "CONFIG_TILT": null,
+        "CONFIG_OUTPUT_ENABLED": true,
+        "CONFIG_RANGE": null,
+        "CONFIG_MODE": null,
+        "CONFIG_POWER": null
+      }
+    },
+    {
+      "uid": "pre",
+      "params": {
+        "CONFIG_GAIN": null,
+        "CONFIG_TILT": null,
+        "CONFIG_OUTPUT_ENABLED": true,
+        "CONFIG_RANGE": null,
+        "CONFIG_MODE": null,
+        "CONFIG_POWER": null
+      }
+    }
+  ],
+  "connections": ["bst","ila1","ila2","ila3","ila4","ila5","pre"]
+}
